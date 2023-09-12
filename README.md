@@ -1,4 +1,4 @@
-# sqlalchemy-challenge - Surfs Up!
+# sqlalchemy-challenge
 
 This challenge consited of two parts:
 
